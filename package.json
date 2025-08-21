@@ -1,0 +1,12 @@
+{
+  "name": "nexty-bot",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp bot with menu, jid, forward",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5"
+  }
+}
